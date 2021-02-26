@@ -15,4 +15,6 @@
 
 ## Giving feedback
 
-Feedback is always welcome, so if you have any to give on this challenge please commitment
+Feedback is always welcome, so if you have any to give on this challenge please let me know.
+
+**Have fun building!** 🚀
